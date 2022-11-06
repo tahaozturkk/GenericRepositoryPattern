@@ -10,7 +10,7 @@ namespace DataAccessLayer.Repositories.Concrete
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : class
     {
-        readonly DbContext _context;
+        protected  DbContext _context;
         private DbSet<T> _dbset;
         public GenericRepository(DbContext context)
         {

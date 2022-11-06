@@ -9,6 +9,6 @@ namespace DataAccessLayer.Repositories.Abstract
 {
     public interface IDepartmentRepository: IGenericRepository<Department>
     {
-        List<Department> GetDepartmentsWithPersonnels();
+        IEnumerable<Department> GetDepartmentsWithPersonnels();
     }
 }

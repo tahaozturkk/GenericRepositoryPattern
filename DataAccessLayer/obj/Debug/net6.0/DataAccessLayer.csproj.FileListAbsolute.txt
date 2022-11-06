@@ -1,0 +1,17 @@
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\bin\Debug\net6.0\Domains.dll
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\bin\Debug\net6.0\Domains.pdb
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\oztur\source\repos\GenericRepositoryPattern\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
